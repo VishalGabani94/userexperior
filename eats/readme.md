@@ -1,27 +1,31 @@
-Run eats
+Run eats :-
+
 	inbuilt server of spring boot
 
-Prerequisites
+Prerequisites:-
+
 	Git
 	JDK 8 or later
 	Maven 3.0 or later
 	MySQL Version 5.0 or later
 	
-Configurations
+Configurations :-
+
 	Open the application.properties file and set your own configurations for the database connection.
 
-Actuator
-To monitor and manage your application
-	URL	Method
-	http://localhost:8080/emp-activity/problem-statment1	GET
-	http://localhost:8080/emp-activity/problem-statment2	GET
+Actuator :-
+
+	To monitor and manage your application
+		URL	Method
+		http://localhost:8080/emp-activity/problem-statment1	GET
+		http://localhost:8080/emp-activity/problem-statment2	GET
 	
 	
 -----------------------------------------------------------------------------------------------------------------
 |							Other Info																			|
 |		1.	JSON files folder	E:\\WorkspaceJava\\eats\\src\\main\\resources\\EmployeeActivitiesToBeProcessed  |
-|			you can change it from com.eats.utilities.Constant	as per your requirement/path					|
-|																												|
+|			you can change it from com.eats.utilities.Constant	as per your requirement/path			|
+|																																	|
 |		2. Attached eats_db.sql for DDL and DDL statements 														|
 -------------------------------------------------------------------------------	----------------------------------
 
