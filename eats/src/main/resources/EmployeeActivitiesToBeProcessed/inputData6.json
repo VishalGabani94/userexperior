@@ -1,0 +1,10 @@
+{
+    "employee_id": 530008,
+    "activities": [
+       {
+            "name": "login",
+            "time": "2020-01-19 15:21:45",
+            "duration" : "20"
+        }
+    ]
+}

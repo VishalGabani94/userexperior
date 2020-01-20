@@ -1,0 +1,25 @@
+{
+    "employee_id": 530003,
+    "activities": [
+        {
+            "name": "login",
+            "time": "2020-01-19 15:21:45",
+            "duration" : "20"
+        },
+        {
+            "name": "teabreak",
+            "time": "2020-01-19 15:21:45",
+            "duration" : "2"
+        },
+        {
+            "name": "login",
+            "time": "2020-01-19 20:21:45",
+            "duration" : "13"
+        },
+        {
+            "name": "login",
+            "time": "2020-01-19 22:21:45",
+            "duration" : "8"
+        }
+    ]
+}

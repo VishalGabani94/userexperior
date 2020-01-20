@@ -1,0 +1,15 @@
+{
+    "employee_id": 530010,
+    "activities": [
+        {
+            "name": "login",
+            "time": "2020-01-19 15:21:45",
+            "duration" : "20"
+        },
+        {
+            "name": "naptime",
+            "time": "2020-01-19 15:23:45",
+            "duration" : "2"
+        }
+    ]
+}
