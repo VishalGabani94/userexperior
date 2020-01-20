@@ -24,8 +24,14 @@ To monitor and manage your application
 |																												|
 |		2. Attached eats_db.sql for DDL and DDL statements 														|
 -------------------------------------------------------------------------------	----------------------------------
-	
-	
+
+-------------------------------------------------------------------------------
+|							JSON Response: of 									|
+|				http://localhost:8080/emp-activity/problem-statment1			|
+-------------------------------------------------------------------------------	
+All employees record successfully inserted!
+HttpStatus.OK
+
 -------------------------------------------------------------------------------
 |							JSON Response: of 									|
 |				http://localhost:8080/emp-activity/problem-statment2			|
@@ -208,7 +214,3 @@ To monitor and manage your application
         }
     ]
 }
--------------------------------------------------------------------------------
-|									END 										|
-|				http://localhost:8080/emp-activity/problem-statment2			|
--------------------------------------------------------------------------------
